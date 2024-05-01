@@ -59,3 +59,6 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 * Bcrpyt Package
 * Express Session
 * Connect Session Sequelize
+
+#### Help
+<insert tutorials, inspirations, etc>

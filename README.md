@@ -62,3 +62,5 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 #### Help
 <insert tutorials, inspirations, etc>
+
+CodyG-2021 `https://github.com/CodyG-2021/14-Model-View-Controller-MVC-Tech-Blog`
